@@ -1,1 +1,1 @@
-DB connection successful!')
+const mongoose = require('mongoose');
